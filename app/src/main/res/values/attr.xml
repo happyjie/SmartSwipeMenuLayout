@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SmartSwipeMenuLayout">
+        <attr name="LeftMenuView" format="reference"/>
+        <attr name="RightMenuView" format="reference"/>
+        <attr name="ContentView" format="reference"/>
+        <attr name="LeftMenuEnable" format="boolean"/>
+        <attr name="RightMenuEnable" format="boolean"/>
+    </declare-styleable>
+    
+</resources>
