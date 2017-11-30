@@ -1,4 +1,4 @@
-package com.story.happyjie.swipemenulayout;
+package com.story.happyjie.swipemenulayouttest;
 
 import org.junit.Test;
 
